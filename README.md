@@ -3,7 +3,7 @@
 * I used udacity generated data set to train my model.
 * Images were collected from all three cameras.
 * Angle Adjustments of 0.22 were made to left(+.22) and Right Images(-.22)
-* Followed By fliping every image vertically and adjusting angles accordingly
+* Followed By fliping every image vertically and adjusting angles accordingly.
 * All these data collection was done using generators to imporve memory utilization
 
 ### Data Learing Model
